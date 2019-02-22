@@ -6,7 +6,7 @@ Has all the main functionality + distinct landscape layout
 
 Main Activity screenshots: 
 
-![Main Activity Portrait](/docs/FriendsrPortrait.png "Main Activity Portrait") ![Main Activity Landscape](/docs/FriendsrLandscape.png "Main Activity Landscape")
+![Main Activity Portrait](/docs/FriendsrPortrait.png "Main Activity Portrait") ![Main Activity Landscape](/docs/FriendstrLandscape.png "Main Activity Landscape")
 
 
 
